@@ -25,4 +25,4 @@ This is a mini project where I implemented the Oauth(Open authorization) work fl
 
  #### LINK
 
-  This project is currently being hosted on Heroku [view mini app](https://obscure-hollows-96182.herokuapp.com/).
+  This project is currently being hosted on Heroku [view mini app](https://vast-harbor-33066.herokuapp.com/).
