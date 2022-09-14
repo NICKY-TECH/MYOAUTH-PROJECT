@@ -93,6 +93,7 @@ a.logout{
     a.login{
         width: 50%;
         background-color: pink;
+        height:1.5em;
     }
 
     .login-btn{
@@ -100,10 +101,10 @@ a.logout{
     }
 
     .login-section{
-        width: 50%;
+        width: 50vw;
     }
 
     .know-developer{
-        font-size: 1.4em;
+        font-size: 1.2em;
     }
 }
