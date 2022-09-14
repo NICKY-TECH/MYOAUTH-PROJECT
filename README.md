@@ -23,6 +23,6 @@ This is a mini project where I implemented the Oauth(Open authorization) work fl
 
  This is a mini application which implements the Oauth work flow, the user logs into this application using his/her Google account.
 
- #### LINKS
+ #### LINK
 
   This project is currently being hosted on Heroku [view mini app](https://obscure-hollows-96182.herokuapp.com/).
