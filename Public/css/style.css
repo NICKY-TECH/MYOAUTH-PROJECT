@@ -8,6 +8,7 @@ margin:auto;
 }
 
 .know-developer{
+    flex-shrink:1;
     text-align:center;
     font-family: 'Assistant', sans-serif;
     font-size:2em;
@@ -60,7 +61,7 @@ a.login{
     font-size: 3em;
     font-weight:200;
     font-family: 'Lato', sans-serif;
-    background-color: #1C6758;
+    background-color: blueviolet;
     text-decoration: none;
     text-align:center;
     padding:20px 60px 20px;
@@ -80,6 +81,11 @@ a.logout{
     width:700vw;
     height:50vh;
 
+}
+
+.login-btn{
+    flex-shrink:1;
+    align-items: flex-end;
 }
 
 .link-btn,.logout-btn{
