@@ -97,7 +97,6 @@ const options={
     callbackURL:'/auth/google/callback',
     clientID:process.env.CLIENT_ID,
     clientSecret:process.env.CLIENT_SECRET,
-    proxy: true 
 }
 
 
