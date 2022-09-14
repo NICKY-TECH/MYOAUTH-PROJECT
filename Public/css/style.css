@@ -1,6 +1,7 @@
 .login-section{
 display:flex;
 flex-direction: column;
+flex-shrink:1;
 background-color:white;
 width: 50%;
 height:40em;
@@ -8,7 +9,6 @@ margin:auto;
 }
 
 .know-developer{
-    flex-shrink:1;
     text-align:center;
     font-family: 'Assistant', sans-serif;
     font-size:2em;
@@ -96,3 +96,8 @@ a.logout{
     padding-bottom:80px;
 }
 
+@media screen and (max-width:597px){
+    a.login{
+        width: 50%;
+    }
+}
