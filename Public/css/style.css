@@ -97,7 +97,7 @@ a.logout{
 
 @media screen and (max-width:576px){
     a.login{
-        width: 20%;
+        width: 60%;
         height:1.5em;
         font-size: 1.1em;
         padding:30px 10px 30px 30px;
