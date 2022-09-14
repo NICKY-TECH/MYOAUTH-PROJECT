@@ -100,7 +100,8 @@ a.logout{
         width: 60%;
         height:1.5em;
         font-size: 1.1em;
-        padding:30px 10px 30px 30px;
+        text-align: center;
+        padding:30px auto 30px;
     }
 
     .show{
