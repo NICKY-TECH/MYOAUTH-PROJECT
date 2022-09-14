@@ -1,6 +1,7 @@
 .login-section{
 display:flex;
 flex-direction: column;
+flex-shrink: 1;
 background-color:white;
 width: 40%;
 height:40em;
@@ -95,6 +96,7 @@ a.logout{
         width: 50%;
         background-color: pink;
         height:1.5em;
+        font-size: 1.4em;
     }
 
     .login-btn{
