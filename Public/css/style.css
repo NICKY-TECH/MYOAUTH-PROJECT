@@ -8,6 +8,10 @@ height:40em;
 margin:auto;
 }
 
+.show{
+    display:none;
+}
+
 p{
     text-align:center;
     font-family: 'Assistant', sans-serif;
@@ -100,6 +104,10 @@ a.logout{
         padding:20px 30px 20px;
     }
 
+    .show{
+        display: flex;
+    }
+
     .login-btn{
             width: 50%;
     }
@@ -110,5 +118,9 @@ a.logout{
 
     .know-developer{
         font-size: 1.2em;
+    }
+
+    .display{
+        display: none;
     }
 }
