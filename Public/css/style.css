@@ -78,7 +78,7 @@ a.logout{
     text-decoration: none;
     text-align:center;
     padding:20px 60px 20px;
-    width:700vw;
+    width:50%;
     height:50vh;
 
 }
@@ -95,3 +95,4 @@ a.logout{
 .logout-btn{
     padding-bottom:80px;
 }
+
