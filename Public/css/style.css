@@ -97,7 +97,7 @@ a.logout{
 
 @media screen and (max-width:576px){
     a.login{
-        width: 30%;
+        width: 50%;
         background-color: pink;
         height:1.5em;
         font-size: 1.1em;
@@ -106,7 +106,8 @@ a.logout{
 
     .show{
         display: flex;
-        justify-content: center;
+        margin:50px 40px 0;
+      
     }
 
     .login-btn{
