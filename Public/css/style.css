@@ -1,5 +1,6 @@
 .login-section{
-display:grid;
+display:flex;
+flex-direction: column;
 background-color:white;
 width: 40%;
 height:40em;
