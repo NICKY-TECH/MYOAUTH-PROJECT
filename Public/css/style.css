@@ -1,14 +1,12 @@
 .login-section{
-display:flex;
-flex-direction: column;
-flex-shrink:1;
+display:grid;
 background-color:white;
-width: 50%;
+width: 40%;
 height:40em;
 margin:auto;
 }
 
-.know-developer{
+p{
     text-align:center;
     font-family: 'Assistant', sans-serif;
     font-size:2em;
@@ -61,7 +59,7 @@ a.login{
     font-size: 3em;
     font-weight:200;
     font-family: 'Lato', sans-serif;
-    background-color: blueviolet;
+    background-color: #1C6758;
     text-decoration: none;
     text-align:center;
     padding:20px 60px 20px;
@@ -78,14 +76,9 @@ a.logout{
     text-decoration: none;
     text-align:center;
     padding:20px 60px 20px;
-    width:50%;
+    width:700vw;
     height:50vh;
 
-}
-
-.login-btn{
-    flex-shrink:1;
-    align-items: flex-end;
 }
 
 .link-btn,.logout-btn{
@@ -94,10 +87,4 @@ a.logout{
 
 .logout-btn{
     padding-bottom:80px;
-}
-
-@media screen and (max-width:597px){
-    a.login{
-        width: 50%;
-    }
 }
