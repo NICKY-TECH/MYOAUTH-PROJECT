@@ -97,6 +97,7 @@ a.logout{
         background-color: pink;
         height:1.5em;
         font-size: 1.4em;
+        padding:20px 30px 20px;
     }
 
     .login-btn{
