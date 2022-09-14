@@ -81,10 +81,29 @@ a.logout{
 
 }
 
-.link-btn,.logout-btn{
+.link-btn,.login-btn{
     margin:auto;
 }
 
-.logout-btn{
+.login-btn{
     padding-bottom:80px;
+}
+
+@media screen and (max-width:576px){
+    a.login{
+        width: 50%;
+        background-color: pink;
+    }
+
+    .login-btn{
+            width: 50%;
+    }
+
+    .login-section{
+        width: 50%;
+    }
+
+    .know-developer{
+        font-size: 1.4em;
+    }
 }
